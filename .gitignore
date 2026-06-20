@@ -1,0 +1,47 @@
+# VS Code
+.vscode/
+.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-selfcheck.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Test artifacts
+.pytest_cache/
+.tox/
+htmlcov/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*,cover
+*.log
+*.pot
+*.py,cover
+
+# IDEs
+.idea/
+.project
+.pydevproject
+.settings/
+*.sublime-workspace
