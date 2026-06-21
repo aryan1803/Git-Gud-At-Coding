@@ -26,3 +26,4 @@ _DSA has been added from Day 6_
 | Day 5 | Stats and EDA | 13/13 |
 | Day 6 | First ML model | 12.5/13 |
 | Day 7 | ML Classification Model | 10.5/13 |
+| Day 8 | ML and DSA Foundation | 14/15 |
