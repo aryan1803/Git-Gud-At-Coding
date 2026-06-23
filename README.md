@@ -28,3 +28,4 @@ _DSA has been added from Day 6_
 | Day 7 | ML Classification Model | 10.5/13 |
 | Day 8 | ML and DSA Foundation | 14/15 |
 | Day 9 | Random Forest and Ensemble Learning | 14.5/15 |
+| Day 10 | Feature Engineering and Cross Validation | 13.5/16 |
