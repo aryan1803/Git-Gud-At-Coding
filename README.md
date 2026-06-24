@@ -29,3 +29,4 @@ _DSA has been added from Day 6_
 | Day 8 | ML and DSA Foundation | 14/15 |
 | Day 9 | Random Forest and Ensemble Learning | 14.5/15 |
 | Day 10 | Feature Engineering and Cross Validation | 13.5/16 |
+| Day 11 | Gradient Boosting, ROC-AUC, Bias vs Variance | 12/15 |
